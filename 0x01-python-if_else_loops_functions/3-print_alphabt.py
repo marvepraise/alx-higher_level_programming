@@ -2,4 +2,4 @@
 for i in range(ord('a'), ord('z') + 1):
     if i == ord('q') or i == ord('e'):
         continue
-print("{}".format(chr(i)), end="")
+    print("{}".format(chr(i)), end="")
