@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 c_calculation(a, b, c):
     if a < b:
         return c
