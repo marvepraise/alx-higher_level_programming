@@ -7,5 +7,5 @@ def uppercase(str):
         for upper, lower in zip(up, low):
             if letter == chr(lower):
                 letter = chr(upper)
-         new_str += letter
+        new_str += letter
     print("{}".format(new_str))
