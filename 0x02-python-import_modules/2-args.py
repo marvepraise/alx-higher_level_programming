@@ -12,4 +12,4 @@ if __name__ == "__main__":
     for index, var in enumerate(argv):
         if index == 0:
             continue
-    print("{}: {}".format(index, var))
+        print("{}: {}".format(index, var))
