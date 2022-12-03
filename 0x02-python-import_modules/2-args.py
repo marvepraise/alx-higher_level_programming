@@ -2,7 +2,7 @@
 if __name__ == "__main__":
     from sys import argv
     ArgLen = len(argv)
-    
+
     if ArgLen == 1:
         print("0 arguments.")
     elif ArgLen == 2:
